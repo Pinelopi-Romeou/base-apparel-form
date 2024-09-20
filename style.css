@@ -148,8 +148,12 @@ p {
 
 
     h1 {
-        font-size: 3rem;
+        font-size: 3.5rem;
         margin-top: 1rem;
+    }
+
+    h1 span {
+        display: block;
     }
 
     .text {
