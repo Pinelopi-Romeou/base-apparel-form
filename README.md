@@ -35,8 +35,8 @@ Form validation:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/base-apparel-page-8d2sM_YXto)
+- Live Site URL: (https://pinelopi-romeou.netlify.app/)
 
 
 ## My process
